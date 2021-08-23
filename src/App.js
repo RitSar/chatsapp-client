@@ -27,7 +27,7 @@ function App() {
                 <DynamicRoute path="/login" component={Login} guest />
               </Switch>
             </Container>
-            <div className="text-center text-white">
+            <div className="mt-2 text-center text-white">
               <small>Developed by Rittik Sarkar</small>
             </div>
           </BrowserRouter>
